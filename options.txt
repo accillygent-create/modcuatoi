@@ -16,7 +16,7 @@ reducedDebugInfo:false
 showSubtitles:true
 directionalAudio:true
 touchscreen:false
-fullscreen:true
+fullscreen:false
 bobView:false
 toggleCrouch:false
 toggleSprint:false
@@ -208,8 +208,8 @@ key_key.compactf3plus.toggleHud:key.keyboard.f8
 key_placebo.toggleTrails:key.keyboard.unknown
 key_placebo.toggleWings:key.keyboard.unknown
 key_key.fpsboostremake.zoom_key:key.keyboard.g
-key_key.relics.ability_list:key.keyboard.unknown
-key_key.relics.research_relic:key.keyboard.unknown
+key_key.relics.ability_list:key.keyboard.left.alt
+key_key.relics.research_relic:key.keyboard.left.shift
 key_key.gpushift.toggle_overlay:key.keyboard.unknown
 key_key.gpushift.open_settings:key.keyboard.f9
 key_technobauble.key.backpack:key.keyboard.e:CONTROL
@@ -220,6 +220,7 @@ key_key.cataclysm.ability:key.keyboard.z
 key_key.cataclysm.helmet_ability:key.keyboard.v
 key_key.cataclysm.chestplate_ability:key.keyboard.c
 key_key.cataclysm.boots_ability:key.keyboard.x
+key_key.veinminer.toggle:key.keyboard.keypad.5
 key_key.spartanweaponry.access_quiver:key.keyboard.unknown
 key_artifacts.key.helium_flamingo.activate:key.keyboard.unknown
 key_artifacts.key.night_vision_goggles.toggle:key.keyboard.unknown
